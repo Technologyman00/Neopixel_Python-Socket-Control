@@ -6,6 +6,6 @@ Hi! This is a project for My FRC team where we have a Neopixel Light Controlled 
 
 You should use the Release Folder if you plan on using this program 
 
-    Note: Takes time to connect usually is not instant which is why the Client Loops Trys.
+** Note: Takes time to connect usually is not instant which is why the Client Loops Trys. **
   
 The Old-Version Folder is for the Progress of the Program (May or Maynot be Stable)  
